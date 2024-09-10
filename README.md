@@ -15,11 +15,8 @@ O **Projeto Secretaria** é uma iniciativa voltada para o desenvolvimento de um 
 
 ## Tecnologias Utilizadas
 
-- **Front-end**: [React](https://reactjs.org/) / [Flutter](https://flutter.dev/)
-- **Back-end**: [Node.js](https://nodejs.org/) / [Django](https://www.djangoproject.com/)
-- **Banco de Dados**: [MongoDB](https://www.mongodb.com/) / [PostgreSQL](https://www.postgresql.org/)
-- **Autenticação**: [OAuth2](https://oauth.net/2/) / [JWT](https://jwt.io/)
-- **Hospedagem e Deployment**: [AWS](https://aws.amazon.com/) / [Heroku](https://www.heroku.com/)
+- **Front-end**: (Flask)
+- **Back-end**:  (Python)
 
 ## Instalação
 
