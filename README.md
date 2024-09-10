@@ -15,8 +15,8 @@ O **Projeto Secretaria** é uma iniciativa voltada para o desenvolvimento de um 
 
 ## Tecnologias Utilizadas
 
-- **Front-end**: (Flask)
-- **Back-end**:  (Python)
+- **Front-end**: Flask
+- **Back-end**:  Python
 
 ## Instalação
 
